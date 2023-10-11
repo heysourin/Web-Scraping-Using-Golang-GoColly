@@ -1,1 +1,2 @@
-# Web-Scrapping-Using-Golang-Clly
+## Required packages
+go get github.com/gocolly/colly
