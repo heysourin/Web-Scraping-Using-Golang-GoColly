@@ -52,12 +52,7 @@ func main() {
 	}
 }
 
-/*//TODO
-1. All the details(values) are loading inside one json key.Done --> You can't give the parent tag, that contains all the files. You have to choose such a parent-tag that is repeating itself.
-
-
-2. 'Next page' is not happening. Done
-
-//!
-Idea 1: Will try without wg - timeout
+/*
+All the details(values) are loading inside one json key.Done --> You can't give the parent tag, that contains all the files. 
+								 You have to choose a tag that is repetitive.
 */
